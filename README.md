@@ -1,4 +1,5 @@
 # Light's IDE.
-율의 코드 아카이브 입니다.
+#### print(Me) ✅ <br>
+율의 코드 아카이브 입니다. <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgivemethespotlight&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d)

@@ -1,0 +1,1 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justgivemethespotlight&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=30363d)
